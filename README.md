@@ -1,4 +1,9 @@
-# Correlation and regression for data analysis
+```c
+NAME : SHIVANI M
+REG-NO : 212224040313
+DATE : 10-04-2025
+```
+# EXP 3 :Correlation and regression for data analysis
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
